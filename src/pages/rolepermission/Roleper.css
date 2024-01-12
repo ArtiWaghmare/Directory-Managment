@@ -1,0 +1,151 @@
+.space-1 {
+  border-bottom: solid 1px hsla(0, 0%, 24%, 0.302);
+  margin-left: 10px;
+  margin-right: 10px;
+ 
+}
+
+.line {
+  border: none;
+}
+.row-per{
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: #E9F2F7;
+  border-radius: 8px;
+}
+
+.text-Role {
+  margin-top: 40px;
+  margin-left: 10px;
+margin-right: 10px;
+font-size: 30px;
+  
+}
+.perm{
+  font-size: 30px; 
+  font-family: Mitr;
+font-size: 28px;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+.content-2 {
+  width: 950px;
+  height: 836px;
+  top: 294px;
+  left: 578px;
+  border-radius: 7px;
+  border: solid 1px gray;
+ 
+
+}
+.border-lin{
+border: solid 1px #3D3D3D4D;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 20px;
+}
+
+
+.trow-one {
+  background-color: #0672A3;
+  font-family: Mitr;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 120px;
+  height: 40px;
+  border-radius: 8px;
+  text-align: center;
+  color: white;
+  margin-right: 430px;
+  margin-left: 50px;
+  border: none;
+  margin-top: 30px;
+}
+
+.trow-two {
+  background-color: #0672A3;
+  font-family: Mitr;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 120px;
+  height: 40px;
+  border-radius: 8px;
+  text-align: center;
+  color: white;
+margin-top: 30px;
+  
+  border: none;
+}
+
+.align-items-center {
+  align-items: center;
+  
+}
+
+.table-1-light {
+  background-color: #E9F2F7;
+  border-right: none;
+}
+
+.table-1 {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.table-1 {
+  border-bottom: solid 1px #3D3D3D4D;
+  padding: 10px;
+  text-align: center;
+  color: #3D3D3D;
+}
+.table-1 th,
+.table-1 td {
+  border: 1px solid #3D3D3D4D;
+  padding: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.form-check-input {
+
+  border: solid 1px black;
+  
+
+}
+.form-check{
+
+  margin-left: 10px;
+ 
+}
+.view{
+margin-right: 25px;
+}
+.left{
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+.arrow{
+border-radius: 5px;
+  margin-top: 10px;
+ background-color: #0E83D9;
+width: 60px;
+margin-right: 20px;
+
+}
+.img{
+ height: 20px;
+}

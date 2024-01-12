@@ -1,0 +1,184 @@
+.form-regist {
+    width: 90%;
+    padding-bottom: 30px;
+    background-color: #FFFFFF;
+    margin-left: 70px;
+    height: 1616px;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.col-md-4 {
+    border: none;
+    text-align: left;
+}
+
+.form-row {
+
+
+    align-items: center;
+
+}
+
+.header-1 {
+    width: 100%;
+    padding-top: 31px;
+    padding-bottom: 8px;
+    background-color: #0672A3;
+
+}
+
+.emp-text {
+    text-align: left;
+    font-family: Mitr;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+
+}
+
+.add-text {
+    font-family: Mitr;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 43px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 58px;
+    margin-bottom: 10px;
+}
+
+.form-control {
+    border: solid 1px #b8b5b5;
+ 
+
+
+}
+
+.form-select {
+    border: solid 1px #b8b5b5;
+}
+
+.col-1 {
+    margin-top: 40px;
+}
+
+.same {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.form-one {
+
+    height: 1200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
+.labe-text {
+    text-align: left;
+    font-size: 12px;
+   
+    height: 31px;
+    top: 194px;
+    left: 75px;
+    opacity: 0.8px;
+    font-family: Mitr;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+}
+
+.col-md-2 {
+    border: none;
+
+}
+
+.sub-but {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.sub-button {
+    background-color: #0672A3;
+    width: 148px;
+    height: 50px;
+    top: 1686px;
+    left: 413px;
+    border-radius: 12px;
+    border: solid 2px #0672A3;
+    font-family: Mitr;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.edit-button {
+    background-color: #FFFFFF;
+    color: #3D3D3D;
+    width: 148px;
+    height: 50px;
+    top: 1686px;
+    left: 413px;
+    border-radius: 12px;
+    border: solid 2px #0672A3;
+    font-family: Mitr;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.form-select {
+    font-family: Mitr;
+    font-size: 14px;
+    font-weight: 590;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #00000080;
+    font-style: normal;
+
+}
+.form-control{
+    font-family: Mitr;
+    font-size: 14px;
+    font-weight: 590;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #00000080;
+    font-style: normal;
+}
+.form-control-three{
+width: 40px;
+border:solid 1px rgb(192, 190, 190);
+border-radius: 5px;
+}

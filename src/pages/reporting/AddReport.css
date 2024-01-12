@@ -1,0 +1,137 @@
+.modal-content{
+
+    width: 650px;
+    height: 400px;
+    margin-top: 40px;
+  
+}
+
+.modal-header {
+    background-color: #0672A3;
+    width: 648px;
+    height: 90px;
+}
+
+.add-reporting{
+
+    font-family: Mitr;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 63px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+    margin-left: 30px;
+   
+}
+
+.clss4 {
+
+    width: 750px;
+    height: 300px;
+    justify-content: center;
+   
+   
+
+}
+
+
+
+.clss6 {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+   
+}
+
+.center-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+
+.forrm-control-1 {
+    width: 40px;
+    height: 40px;
+
+    border-radius: 8px;
+   margin-left: 20px;
+    border: 2px solid #070707;
+
+}
+
+.form-control-2 {
+   
+    
+    border: 2px solid #070707;
+
+    border-radius: 8px;
+}
+
+.text-2 {
+    font-family: Mitr;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 3px;
+
+}
+
+.button-tw{
+    background-color: white;
+    border: solid 2px#0672A3;
+    color:#0672A3;
+    width: 130px;
+    height: 45px;
+    border-radius: 10px;
+
+ margin-left: 60px;
+ 
+    font-family: Mitr;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: center;
+ 
+}
+.form-con{
+    width: 40px;
+    border-radius: 4px;
+    margin-top: 20px;
+    border: solid 1px rgb(151, 150, 150);
+    margin-right: 10px;
+}
+.button-on{
+    background-color: #0672A3;
+    border: solid 3px#0672A3;
+    width: 130px;
+    height: 45px;
+    border-radius: 10px;
+   margin-right: 205px;
+    font-family: Mitr;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: center;
+
+     margin-right: 20px;
+    color: white;
+
+}
+
+.col-md-6 {
+    border: none;
+}
+.space-lable{
+ margin-right: 20px;
+}
+.buttons{
+ justify-content: center;
+ align-items: center;
+margin-left: 150px;
+}

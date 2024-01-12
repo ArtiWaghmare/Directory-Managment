@@ -1,0 +1,125 @@
+.navbar {
+
+    height: 60px;
+    width: 1000px;
+    margin-right: 100px;
+    border-radius: 10px;
+    border: 1px solid rgba(61, 61, 61, 0.20);
+    background: hsl(199, 93%, 33%);
+  margin-left: 10px;
+    margin-top: 10px;
+  
+  }
+  .navbar-brand{
+    float: left;
+  }
+  .container {
+    margin-bottom: 10px;
+  
+    margin-right: 200px;
+  
+  }
+  
+  .small-1 {
+    border-radius: 50px;
+    background-color: aliceblue;
+    margin-left: 30px;
+    height: 30px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  
+  
+  
+  .logo {
+    width: 50px;
+    height: auto;
+  }
+  
+  
+
+  
+  .custom-width {
+    width: 200px;
+  }
+  
+  .width {
+    width: 300px;
+  }
+  
+  .input-group {
+    width: 40px;
+    height: 40px;
+    height: auto;
+    background-color: transparent;
+    left:0;
+  }
+  
+.custom-input {
+  width: 250px; 
+ 
+}
+
+.input-container {
+  position: relative;
+}
+
+.left-icon {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 35px;
+}
+
+.form-control {
+  padding-left: 40px; 
+  padding-right: 40px;
+ border: solid 2px gray;
+}
+
+.right-icon {
+  position: absolute;
+  right: 10px; 
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer; 
+}
+
+
+.thtt {
+  position: relative;
+  width: 250px;
+  
+  float: right;
+  margin-left: 600px;
+}
+
+.dropdown {
+  position: absolute;
+  
+  right: 0;
+
+
+  padding: 10px;
+ 
+  z-index: 1;
+}
+
+
+button {
+  background-color: #007bff; 
+  color: #fff; 
+  border: solid 1px  #0056b3 ;
+  padding: 8px 16px; 
+  cursor: pointer;
+  border-radius: 4px; 
+  font-size: 14px; 
+
+}
+
+button:hover {
+  background-color: #0056b3; 
+}
